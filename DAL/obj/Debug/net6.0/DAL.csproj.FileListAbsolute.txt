@@ -1,0 +1,17 @@
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\DAL\bin\Debug\net6.0\DAL.dll
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\DAL\bin\Debug\net6.0\DAL.pdb
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\DAL\obj\Debug\net6.0\DAL.dll
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\DAL\obj\Debug\net6.0\DAL.pdb
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\DAL\bin\Debug\net6.0\BOL.dll
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\DAL\bin\Debug\net6.0\BOL.pdb
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete

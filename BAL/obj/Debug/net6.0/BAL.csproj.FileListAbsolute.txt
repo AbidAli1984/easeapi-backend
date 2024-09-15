@@ -1,0 +1,17 @@
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\BAL\bin\Debug\net6.0\BAL.deps.json
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\BAL\bin\Debug\net6.0\BAL.dll
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\BAL\bin\Debug\net6.0\BAL.pdb
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\BAL\obj\Debug\net6.0\BAL.dll
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\BAL\obj\Debug\net6.0\refint\BAL.dll
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\BAL\obj\Debug\net6.0\BAL.pdb
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\BAL\obj\Debug\net6.0\ref\BAL.dll
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\BAL\bin\Debug\net6.0\BOL.dll
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\BAL\bin\Debug\net6.0\DAL.dll
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\BAL\bin\Debug\net6.0\BOL.pdb
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\BAL\bin\Debug\net6.0\DAL.pdb
+D:\Upgrad\LJMU\03-Thesis\Project\EaseapiBackend\BAL\obj\Debug\net6.0\BAL.csproj.CopyComplete
